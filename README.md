@@ -1,1 +1,1 @@
-# capistrano-chilzap-recipes
+# capistrano-recipes
